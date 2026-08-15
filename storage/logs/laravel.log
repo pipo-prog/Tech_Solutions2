@@ -1,0 +1,2 @@
+[2026-07-26 15:32:58] local.WARNING: Error consultando API de UF: cURL error 60: SSL certificate OpenSSL verify result: unable to get local issuer certificate (20) (see https://curl.se/libcurl/c/libcurl-errors.html) for https://mindicador.cl/api/uf  
+[2026-08-15 15:51:33] local.WARNING: Error consultando API de UF: cURL error 60: SSL certificate OpenSSL verify result: unable to get local issuer certificate (20) (see https://curl.se/libcurl/c/libcurl-errors.html) for https://mindicador.cl/api/uf  
